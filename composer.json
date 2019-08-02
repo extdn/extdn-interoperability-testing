@@ -14,10 +14,6 @@
     }
   ],
   "require": {
-    "fooman/emailattachments-m2": "^3.1",
-    "fooman/printorderpdf-m2": "^3.1",
-    "fooman/ordermanager-m2": "^8.2",
-    "yireo/magento2-webp2": "*",
     "magento/framework": "^101.0|^102.0",
     "php": ">=7.2.0"
   }
